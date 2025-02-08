@@ -10,15 +10,15 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Simple Flask GUI</title>
+        <title>Modified text in title</title>
         <style>
-            body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
-            h1 { color: #333; }
-            button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+            body { font-family: Arial, sans-serif; text-align: center; margin-top: 200px; }
+            h1 { color: #3FCF; }
+            button { padding: 10px 20px; font-size: 28px; cursor: pointer; }
         </style>
     </head>
     <body>
-        <h1>Welcome to the Flask GUI</h1>
+        <h1>Welcome to Devops</h1>
         <button onclick="alert('Button Clicked!')">Click Me</button>
     </body>
     </html>
